@@ -1,2 +1,3 @@
 # hello-world
 first steps...
+this is my first time using github, hopefully it will be the means to making some cool projects
